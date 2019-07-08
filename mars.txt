@@ -1,8 +1,7 @@
+
 cold and dry, but everything
-<<<<<<< HEAD
-=======
 
 The two moons are a proBlem for w.
->>>>>>> parent of fa5ba1f... Let's go
 
-blah blah
+This is an extra line that I am writing. JEL
+
